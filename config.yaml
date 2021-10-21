@@ -1,4 +1,4 @@
-baseURL: https://ghali-portfolio.netlify.app/s
+baseURL: https://ghali-portfolio.netlify.app/
 languageCode: en-us
 title: Portfolio website for Ghali Benkirane 
 theme: forty
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: London Business School
+    copyright: Company name
     enable: yes
     quicklinks:
       - alt: HTML5 UP
