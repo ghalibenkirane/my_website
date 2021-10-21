@@ -90,9 +90,9 @@ params:
         title: My time at ESSEC
         url: blogs/tempus
       - image: essec_cergy.jpg
-        subtitle: in Cergy
-        title: My time at ESSEC
-        url: blogs/magna
+        subtitle: ESSEC in Paris
+        title: Bachelor's thesis 
+        url: /pdf/bachelor_thesis_preview.pdf
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
@@ -102,8 +102,8 @@ params:
         title: Consequat
         url: blogs/ipsum
       - image: photo_ghali.jpg
-        subtitle: Get to know me !
-        title: My CV
+        subtitle: Feel free to reach out for any professionnal query
+        title: My CV - get to know me !
         url: blogs/ipsum
   two:
     buttonText: Get Started
