@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner:
+  banner: mosaic.jpg
     buttonText: Get Started
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
@@ -82,21 +82,21 @@ params:
     enable: yes
     showcase:
       - image: desert.jpg
-        subtitle: Peacefull
-        title: The Moroccan Desert
+        subtitle: The Moroccan Sahara
+        title: Morocco
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: essec_sg.jpg
+        subtitle: in Singapore
+        title: My time at ESSEC
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: essec_cergy.jpg
+        subtitle: in Cergy
+        title: My time at ESSEC
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/ipsum
+        url: blogs/final_project
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
