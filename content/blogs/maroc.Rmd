@@ -11,10 +11,10 @@ slug: aliquam
 title: Morocco - My home country
 ---
 
-This is my home city. It is considered as the major historical site of Morocco.
+This is my home city - FES - It is considered as the major historical and cultural site of Morocco where you can find the oldest operating university in the world !
 
 ```{r, echo=FALSE}
 knitr::include_graphics("/img/seamorocco.jpg",error =FALSE)
 ```
 
-Morocco has different types of tourism. You can enjoy a day at the beach as well as visit historical sites. 
+Morocco has different types of tourism. You can enjoy a day at the beach as well as visit historical sites and cultural sites. 
