@@ -71,10 +71,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - \#name: Generic Blog
+        \#url: blogs/ipsum
+      - \#name: Elements
+        \#url: elements.html
     menu: Menu
     subtitle: :)
     title: Welcome
@@ -82,25 +82,25 @@ params:
     enable: yes
     showcase:
       - image: desert.jpg
-        subtitle: The Moroccan Sahara
+        subtitle: Discover my country
         title: Morocco
         url: blogs/aliquam
       - image: essec_sg.jpg
-        subtitle: in Singapore
-        title: My time at ESSEC
-        url: blogs/tempus
+        subtitle: When I was studying at ESSEC Singapore
+        title: My trips around Asia
+        url: blogs/trips
       - image: essec_cergy.jpg
         subtitle: ESSEC in Paris
         title: Bachelor's thesis 
         url: /pdf/bachelor_thesis_preview.pdf
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/final_project
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/homework1_R.Rmd
+      - image: agouti.jpg
+        subtitle: Volunteering project during the summer 2015 in Morocco
+        title: Agouti 2015
+        url: /pdf/agouti.pdf
+      - image: investart.jpg
+        subtitle: Entrepreneurship Project - Fintech startup
+        title: Investart
+        url: /pdf/investartmvp.pdf
       - image: photo_ghali.jpg
         subtitle: Feel free to reach out for any professionnal query
         title: My CV - get to know me !

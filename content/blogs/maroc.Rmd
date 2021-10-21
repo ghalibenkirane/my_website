@@ -1,0 +1,20 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
+description: Discover with me Morocco
+draft: false
+image: fes.jpg
+keywords: ""
+slug: aliquam
+title: Morocco - My home country
+---
+
+This is my home city. It is considered as the major historical site of Morocco.
+
+```{r, echo=FALSE}
+knitr::include_graphics("/img/seamorocco.jpg",error =FALSE)
+```
+
+Morocco has different types of tourism. You can enjoy a day at the beach as well as visit historical sites. 

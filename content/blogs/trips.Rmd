@@ -1,0 +1,24 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:26:13-05:00"
+description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
+  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
+  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
+  consequat tincidunt. Vivamus et sagittis tempus.
+draft: false
+image: ph.jpg
+keywords: ""
+slug: trips
+title: I have completed many trips during my time in Asia
+---
+
+This is my first trip in the Philippines
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("/img/aw.jpg",error =FALSE)
+```
+
+Followed by a trip in Cambodia
