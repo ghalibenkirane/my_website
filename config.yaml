@@ -50,7 +50,7 @@ params:
     #   url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: hhttps://www.instagram.com/ghali_bnk/
+        url: https://www.instagram.com/ghali_bnk/
       - icon: fa-github
         label: GitHub
         url: https://github.com/ghalibenkirane
@@ -100,7 +100,7 @@ params:
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
-        url: blogs/ipsum
+        url: blogs/homework1_R.Rmd
       - image: photo_ghali.jpg
         subtitle: Feel free to reach out for any professionnal query
         title: My CV - get to know me !
